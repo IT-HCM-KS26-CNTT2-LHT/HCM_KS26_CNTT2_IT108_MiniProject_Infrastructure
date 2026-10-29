@@ -1,0 +1,5 @@
+# Doi that: bo dau # o dong duoi de KHONG dua mat khau len Git
+# .env
+# Bai nay: .env chi chua du lieu GIA nen de lai de giao vien cham
+.DS_Store
+audit.log
